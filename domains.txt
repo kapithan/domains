@@ -7,3 +7,4 @@ hdrezka-home.tv
 *.zonastat.com
 recaptcha.net
 *.recaptcha.net
+start.prisma.ws
