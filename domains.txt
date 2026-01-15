@@ -8,3 +8,4 @@ hdrezka-home.tv
 recaptcha.net
 *.recaptcha.net
 start.prisma.ws
+jellyfin.org
