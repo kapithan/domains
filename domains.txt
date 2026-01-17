@@ -9,3 +9,4 @@ recaptcha.net
 *.recaptcha.net
 start.prisma.ws
 jellyfin.org
+fivenines.io
