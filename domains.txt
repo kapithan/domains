@@ -11,3 +11,5 @@ start.prisma.ws
 jellyfin.org
 fivenines.io
 050e32.s2.tnas2.link
+*.tnas.online
+tnas.online
