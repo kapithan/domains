@@ -14,3 +14,4 @@ fivenines.io
 *.tnas.online
 tnas.online
 v2.tnas.online
+*.s3.tnas2.link
