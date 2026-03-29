@@ -17,3 +17,4 @@ v2.tnas.online
 *.s3.tnas2.link
 teamhd.org
 .zealdocs.org
+reshade.me
