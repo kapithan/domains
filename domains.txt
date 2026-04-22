@@ -18,3 +18,4 @@ v2.tnas.online
 teamhd.org
 .zealdocs.org
 reshade.me
+twitch.enshrouded.com
